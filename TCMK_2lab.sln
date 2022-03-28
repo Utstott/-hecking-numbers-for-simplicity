@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TCMK_2lab", "TCMK_2lab\TCMK_2lab.pyproj", "{7D7CE469-D671-491C-AB8F-9A5DC9BFF249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7CE469-D671-491C-AB8F-9A5DC9BFF249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7CE469-D671-491C-AB8F-9A5DC9BFF249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7CDCD5A-5264-4266-98EE-F04907771E4E}
+	EndGlobalSection
+EndGlobal
