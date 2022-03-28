@@ -1,4 +1,4 @@
-# -hecking-numbers-for-simplicity
+# Checking-numbers-for-simplicity
 Ferma test, Soloway-Shtrassen test, Rabin-Miller test
 
 Разработана программа, позволяющая проверять числа на простоту, используя:
